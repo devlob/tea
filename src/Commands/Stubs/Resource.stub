@@ -1,0 +1,20 @@
+<?php
+
+namespace App\Http\Resources;
+
+use Devlob\Http\Resources\JsonResource;
+
+class {{class}} extends JsonResource
+{
+    /**
+     * Define the data that should be returned.
+     *
+     * @return array
+     */
+    public function toArray(): array
+    {
+        return [
+            'id' => $this->id
+        ];
+    }
+}

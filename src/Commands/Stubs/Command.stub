@@ -1,0 +1,28 @@
+<?php
+
+namespace App\Console;
+
+use Devlob\Commands\Command;
+
+class {{class}} extends Command
+{
+    /**
+     * Store the parameters of the command.
+     */
+    protected $params = [];
+
+    /**
+     * This will show up when running 'php tea'.
+     */
+    protected $description = 'Command description';
+
+    /**
+     * Code to execute when running the command.
+     *
+     * @param object $args
+     */
+    public function handle(object $args)
+    {
+        //
+    }
+}

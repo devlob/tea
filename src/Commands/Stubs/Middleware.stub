@@ -1,0 +1,20 @@
+<?php
+
+namespace App\Http\Middlewares;
+
+class {{class}}
+{
+    /**
+     * Handle an incoming request.
+     */
+    public function handle()
+    {
+        if (false) {
+            return json([
+                'message' => 'Unauthorized'
+            ], 403);
+        }
+
+        return true;
+    }
+}

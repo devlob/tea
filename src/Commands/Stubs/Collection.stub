@@ -1,0 +1,25 @@
+<?php
+
+namespace App\Http\Resources;
+
+use Devlob\Http\Resources\ResourceCollection;
+
+class {{class}} extends ResourceCollection
+{
+    /**
+     * The path to the resource that needs to be collected.
+     */
+    public $collects = 'App\Http\Resources\{{resource}}';
+
+    /**
+     * Convert collection to an array.
+     *
+     * @return array
+     */
+    public function toArray(): array
+    {
+        return [
+            'data' => $this->getCollection()
+        ];
+    }
+}

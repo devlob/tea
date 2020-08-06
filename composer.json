@@ -1,0 +1,27 @@
+{
+  "name": "devlob/tea",
+  "description": "A light weight PHP framework.",
+  "keywords": [
+    "framework",
+    "tea",
+    "teodora",
+    "devlob",
+    "screencasts"
+  ],
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Renato Hysa",
+      "email": "renato@devlob.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Devlob\\": "src/"
+    },
+    "files": [
+      "src/functions.php"
+    ]
+  },
+  "minimum-stability": "dev"
+}

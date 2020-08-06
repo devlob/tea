@@ -1,0 +1,62 @@
+<?php
+
+namespace App\Http\Observers;
+
+use App\{{model}};
+
+class {{class}}
+{
+    /**
+     * Take action(s) before creating the {{modelVar}}.
+     *
+     * @param {{model}} ${{modelVar}}
+     */
+    public function creating({{model}} ${{modelVar}}): void
+    {
+    }
+
+    /**
+     * Take action(s) after the {{modelVar}} is created.
+     *
+     * @param {{model}} ${{modelVar}}
+     */
+    public function created({{model}} ${{modelVar}}): void
+    {
+    }
+
+    /**
+     * Take action(s) before updating the {{modelVar}}.
+     *
+     * @param {{model}} ${{modelVar}}
+     */
+    public function updating({{model}} ${{modelVar}}): void
+    {
+    }
+
+    /**
+     * Take action(s) after the {{modelVar}} is updated.
+     *
+     * @param {{model}} ${{modelVar}}
+     */
+    public function updated({{model}} ${{modelVar}}): void
+    {
+    }
+
+    /**
+     * Take action(s) before deleting the {{modelVar}}.
+     *
+     * @param {{model}} ${{modelVar}}
+     */
+    public function deleting({{model}} ${{modelVar}}): void
+    {
+    }
+
+    /**
+     * Take action(s) after the {{modelVar}} is deleted.
+     *
+     * @param {{model}} ${{modelVar}}
+     */
+    public function deleted({{model}} ${{modelVar}}): void
+    {
+    }
+}
