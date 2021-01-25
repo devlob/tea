@@ -5,13 +5,6 @@ namespace Devlob\Database\Migrations\Constraints;
 use App\Bootstrap\App;
 use Exception;
 
-/**
- * Class Constraints
- *
- * Migration constraints.
- *
- * @package Devlob\Database\Migrations\Constraints
- */
 class Constraints
 {
     /**

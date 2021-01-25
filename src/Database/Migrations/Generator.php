@@ -7,13 +7,6 @@ use Exception;
 use ReflectionClass;
 use ReflectionMethod;
 
-/**
- * Class Generator
- *
- * Generate columns.
- *
- * @package Devlob\Database\Migrations
- */
 class Generator
 {
     /**

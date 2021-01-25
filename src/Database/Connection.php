@@ -8,13 +8,6 @@ use Devlob\Utils\Console;
 use PDO;
 use PDOException;
 
-/**
- * Class Connection
- *
- * Make a database connection.
- *
- * @package Devlob\Database
- */
 class Connection
 {
     /**

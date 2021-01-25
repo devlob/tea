@@ -2,13 +2,6 @@
 
 namespace Devlob\Commands;
 
-/**
- * Class DownCommand
- *
- * Bring down the application.
- *
- * @package Devlob\Commands
- */
 class DownCommand extends Command
 {
     /**

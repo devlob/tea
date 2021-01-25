@@ -2,13 +2,6 @@
 
 namespace Devlob\Commands;
 
-/**
- * Class MakeRuleCommand
- *
- * Create a rule class.
- *
- * @package Devlob\Commands
- */
 class MakeRuleCommand extends Command
 {
     /**

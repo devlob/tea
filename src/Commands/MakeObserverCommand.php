@@ -2,13 +2,6 @@
 
 namespace Devlob\Commands;
 
-/**
- * Class MakeObserverCommand
- *
- * Create an observer class.
- *
- * @package Devlob\Commands
- */
 class MakeObserverCommand extends Command
 {
     /**

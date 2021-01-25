@@ -6,13 +6,6 @@ use App\Http\Kernel;
 use Exception;
 use ReflectionException;
 
-/**
- * Class Router
- *
- * Setup application routing.
- *
- * @package Devlob\Routing
- */
 class Router
 {
     /**

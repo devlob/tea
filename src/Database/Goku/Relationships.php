@@ -5,13 +5,6 @@ namespace Devlob\Database\Goku;
 use App\Bootstrap\App;
 use Exception;
 
-/**
- * Trait Relationships
- *
- * Model relationships.
- *
- * @package Devlob\Database\Goku
- */
 trait Relationships
 {
     /**

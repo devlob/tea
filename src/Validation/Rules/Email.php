@@ -2,13 +2,6 @@
 
 namespace Devlob\Validation\Rules;
 
-/**
- * Class Email
- *
- * Email rule.
- *
- * @package Devlob\Validation\Rules
- */
 class Email implements Rule
 {
     /**

@@ -5,13 +5,6 @@ namespace Devlob\Http\Resources;
 use Devlob\Database\Goku\Model;
 use Exception;
 
-/**
- * Class JsonResource
- *
- * Represent a resource model.
- *
- * @package Devlob\Http\Resources
- */
 class JsonResource
 {
     /**

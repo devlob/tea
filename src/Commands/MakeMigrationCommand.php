@@ -2,13 +2,6 @@
 
 namespace Devlob\Commands;
 
-/**
- * Class MakeMigrationCommand
- *
- * Create a migration class.
- *
- * @package Devlob\Commands
- */
 class MakeMigrationCommand extends Command
 {
     /**

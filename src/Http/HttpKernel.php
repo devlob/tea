@@ -2,13 +2,6 @@
 
 namespace Devlob\Http;
 
-/**
- * Class HttpKernel
- *
- * Hide the underline implementation of a Kernel.
- *
- * @package Devlob\Http
- */
 abstract class HttpKernel
 {
     /**

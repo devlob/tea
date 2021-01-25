@@ -5,13 +5,6 @@ namespace Devlob\Database\Goku\Builder;
 use Devlob\Database\Goku\Model;
 use ReflectionException;
 
-/**
- * Trait Events
- *
- * Model events.
- *
- * @package Devlob\Database\Goku\Builder
- */
 trait Events
 {
     /**

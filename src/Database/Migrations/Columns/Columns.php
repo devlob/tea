@@ -2,13 +2,6 @@
 
 namespace Devlob\Database\Migrations\Columns;
 
-/**
- * Interface Column
- *
- * Construct column.
- *
- * @package Devlob\Database\Migrations\Columns
- */
 interface Columns
 {
     /**

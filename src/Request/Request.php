@@ -5,13 +5,6 @@ namespace Devlob\Request;
 use Devlob\Validation\Validator;
 use Exception;
 
-/**
- * Class Request
- *
- * Request class.
- *
- * @package Devlob\Request
- */
 class Request
 {
     /**

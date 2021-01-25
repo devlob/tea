@@ -8,13 +8,6 @@ use ReflectionException;
 use ReflectionFunction;
 use ReflectionMethod;
 
-/**
- * Class Call
- *
- * Routing caller.
- *
- * @package Devlob\Routing
- */
 class Call
 {
     /**

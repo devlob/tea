@@ -4,13 +4,6 @@ namespace Devlob\Http\Middlewares;
 
 use Exception;
 
-/**
- * Class CheckForMaintenance
- *
- * Exit if the application is under maintenance.
- *
- * @package Devlob\Http\Middlewares
- */
 class CheckForMaintenance
 {
     /**

@@ -2,13 +2,6 @@
 
 namespace Devlob\Http\Responses;
 
-/**
- * Class JsonResponse
- *
- * Setup a JSON response.
- *
- * @package Devlob\Http\Responses
- */
 class JsonResponse
 {
     /**

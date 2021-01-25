@@ -2,13 +2,6 @@
 
 namespace Devlob\Utils;
 
-/**
- * Trait Display
- *
- * Display tools.
- *
- * @package Devlob\Utils
- */
 trait Display
 {
     /**

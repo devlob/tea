@@ -2,13 +2,6 @@
 
 namespace Devlob\Database\Drivers;
 
-/**
- * Class PostgreSql
- *
- * PostgreSql driver.
- *
- * @package Devlob\Database\Drivers
- */
 class PostgreSql
 {
     /**

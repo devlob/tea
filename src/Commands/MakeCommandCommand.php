@@ -2,13 +2,6 @@
 
 namespace Devlob\Commands;
 
-/**
- * Class MakeCommandCommand
- *
- * Create a command class.
- *
- * @package Devlob\Commands
- */
 class MakeCommandCommand extends Command
 {
     /**

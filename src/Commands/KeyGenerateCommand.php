@@ -4,13 +4,6 @@ namespace Devlob\Commands;
 
 use Exception;
 
-/**
- * Class KeyGenerateCommand
- *
- * Generate secret key.
- *
- * @package Devlob\Commands
- */
 class KeyGenerateCommand extends Command
 {
     /**

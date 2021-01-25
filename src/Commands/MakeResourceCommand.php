@@ -2,13 +2,6 @@
 
 namespace Devlob\Commands;
 
-/**
- * Class MakeResourceCommand
- *
- * Create an API resource class.
- *
- * @package Devlob\Commands
- */
 class MakeResourceCommand extends Command
 {
     /**

@@ -6,13 +6,6 @@ use App\Bootstrap\App;
 use Closure;
 use Exception;
 
-/**
- * Class Schema
- *
- * Migration schema.
- *
- * @package Devlob\Database\Migrations
- */
 class Schema
 {
     /**

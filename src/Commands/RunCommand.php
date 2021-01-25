@@ -2,13 +2,6 @@
 
 namespace Devlob\Commands;
 
-/**
- * Class RunCommand
- *
- * Run the application.
- *
- * @package Devlob\Commands
- */
 class RunCommand extends Command
 {
     /**

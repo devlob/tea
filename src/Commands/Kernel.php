@@ -2,13 +2,6 @@
 
 namespace Devlob\Commands;
 
-/**
- * Class Kernel
- *
- * Keep track of all the registered system commands.
- *
- * @package Devlob\Commands
- */
 class Kernel extends ConsoleKernel
 {
     /**

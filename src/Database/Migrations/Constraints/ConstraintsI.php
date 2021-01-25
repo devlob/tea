@@ -2,13 +2,6 @@
 
 namespace Devlob\Database\Migrations\Constraints;
 
-/**
- * Interface ConstraintsI
- *
- * Constraints interface.
- *
- * @package Devlob\Database\Migrations\Constraints
- */
 interface ConstraintsI
 {
     /**

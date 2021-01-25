@@ -2,13 +2,6 @@
 
 namespace Devlob\Validation\Rules;
 
-/**
- * Class Boolean
- *
- * Boolean rule.
- *
- * @package Devlob\Validation\Rules
- */
 class Boolean implements Rule
 {
     /**

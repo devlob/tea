@@ -2,13 +2,6 @@
 
 namespace Devlob\Validation\Rules;
 
-/**
- * Class Required
- *
- * Required rule.
- *
- * @package Devlob\Validation\Rules
- */
 class Required implements Rule
 {
     /**

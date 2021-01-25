@@ -2,13 +2,6 @@
 
 namespace Devlob\Database\Drivers;
 
-/**
- * Class MySql
- *
- * MySql driver.
- *
- * @package Devlob\Database\Drivers
- */
 class MySql
 {
     /**

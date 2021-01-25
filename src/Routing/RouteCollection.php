@@ -2,13 +2,6 @@
 
 namespace Devlob\Routing;
 
-/**
- * Class RouteCollection
- *
- * Application routes.
- *
- * @package Devlob\Routing
- */
 class RouteCollection
 {
     /**

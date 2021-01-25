@@ -4,13 +4,6 @@ namespace Devlob\Http\Middlewares;
 
 use Exception;
 
-/**
- * Class PresentSecretKey
- *
- * Deny access if secret key is not present.
- *
- * @package Devlob\Http\Middlewares
- */
 class PresentSecretKey
 {
     /**

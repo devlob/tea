@@ -6,13 +6,6 @@ use Devlob\Database\Goku\Model;
 use Exception;
 use PDO;
 
-/**
- * Trait Relationships
- *
- * Query relationships.
- *
- * @package Devlob\Database\Goku\Builder
- */
 trait Relationships
 {
     /**

@@ -2,13 +2,6 @@
 
 namespace Devlob\Commands;
 
-/**
- * Class UpCommand
- *
- * Bring up the application.
- *
- * @package Devlob\Commands
- */
 class UpCommand extends Command
 {
     /**

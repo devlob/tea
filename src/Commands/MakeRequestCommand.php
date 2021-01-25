@@ -2,13 +2,6 @@
 
 namespace Devlob\Commands;
 
-/**
- * Class MakeRequestCommand
- *
- * Create a request class.
- *
- * @package Devlob\Commands
- */
 class MakeRequestCommand extends Command
 {
     /**

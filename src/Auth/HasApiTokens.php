@@ -4,13 +4,6 @@ namespace Devlob\Auth;
 
 use Exception;
 
-/**
- * Trait HasApiTokens
- *
- * Trait for token management.
- *
- * @package Devlob\Auth
- */
 trait HasApiTokens
 {
     /**

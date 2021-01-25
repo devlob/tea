@@ -4,13 +4,6 @@ namespace Devlob\Commands;
 
 use FilesystemIterator;
 
-/**
- * Class MigrateRefreshCommand
- *
- * Reset and re-run all migrations.
- *
- * @package Devlob\Commands
- */
 class MigrateRefreshCommand extends Command
 {
     /**

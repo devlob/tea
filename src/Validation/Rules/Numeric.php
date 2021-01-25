@@ -2,13 +2,6 @@
 
 namespace Devlob\Validation\Rules;
 
-/**
- * Class Numeric
- *
- * Numeric rule.
- *
- * @package Devlob\Validation\Rules
- */
 class Numeric implements Rule
 {
     /**

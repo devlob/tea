@@ -6,13 +6,6 @@ use App\Console\Kernel as UserCommands;
 use Devlob\Commands\Kernel as SystemCommands;
 use Error;
 
-/**
- * Class Console
- *
- * A console for Tea.
- *
- * @package Devlob\Utils
- */
 class Console
 {
     use Display;

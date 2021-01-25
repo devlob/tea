@@ -2,13 +2,6 @@
 
 namespace Devlob\Commands;
 
-/**
- * Class MakeCollectionCommand
- *
- * Create an API collection class.
- *
- * @package Devlob\Commands
- */
 class MakeCollectionCommand extends Command
 {
     /**

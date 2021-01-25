@@ -6,13 +6,6 @@ use DateInterval;
 use DateTime;
 use Exception;
 
-/**
- * Class JWT
- *
- * Manage JWT.
- *
- * @package Devlob\Auth
- */
 class JWT
 {
     /**

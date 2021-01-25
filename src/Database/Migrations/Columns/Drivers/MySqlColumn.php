@@ -4,13 +4,6 @@ namespace Devlob\Database\Migrations\Columns\Drivers;
 
 use Devlob\Database\Migrations\Columns\Columns;
 
-/**
- * Class MySqlColumn
- *
- * MySql columns.
- *
- * @package Devlob\Database\Migrations\Columns\Drivers
- */
 class MySqlColumn implements Columns
 {
     /**

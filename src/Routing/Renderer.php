@@ -5,13 +5,6 @@ namespace Devlob\Routing;
 use ReflectionClass;
 use ReflectionException;
 
-/**
- * Class Renderer
- *
- * Render response.
- *
- * @package Devlob\Routing
- */
 class Renderer
 {
     /**

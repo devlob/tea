@@ -2,13 +2,6 @@
 
 namespace Devlob\Commands;
 
-/**
- * Class MakeMiddlewareCommand
- *
- * Create a middleware class.
- *
- * @package Devlob\Commands
- */
 class MakeMiddlewareCommand extends Command
 {
     /**

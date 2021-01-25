@@ -4,13 +4,6 @@ namespace Devlob\Commands;
 
 use Devlob\Utils\Console;
 
-/**
- * Class Command
- *
- * Hide the underline implementation of a Tea command.
- *
- * @package Devlob\Commands
- */
 abstract class Command
 {
     /**

@@ -2,13 +2,6 @@
 
 namespace Devlob\Validation\Rules;
 
-/**
- * Interface Rule
- *
- * Validation rule.
- *
- * @package Devlob\Validation\Rules
- */
 interface Rule
 {
     /**

@@ -4,13 +4,6 @@ namespace Devlob\Database\Migrations\Constraints\Drivers;
 
 use Devlob\Database\Migrations\Constraints\ConstraintsI;
 
-/**
- * Class PostgreSqlConstraint
- *
- * PostgreSql constraints.
- *
- * @package Devlob\Database\Migrations\Constraints\Drivers
- */
 class PostgreSqlConstraint implements ConstraintsI
 {
     /**

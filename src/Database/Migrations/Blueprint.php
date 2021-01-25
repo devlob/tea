@@ -4,13 +4,6 @@ namespace Devlob\Database\Migrations;
 
 use Devlob\Database\Migrations\Constraints\Constraints;
 
-/**
- * Class Blueprint
- *
- * Create a blueprint for a table.
- *
- * @package Devlob\Database\Migrations
- */
 class Blueprint extends Constraints
 {
     /**

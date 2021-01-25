@@ -11,13 +11,6 @@ use Devlob\Database\Migrations\Generator;
 use Exception;
 use PDO;
 
-/**
- * Class QueryBuilder
- *
- * Execute database queries.
- *
- * @package Devlob\Database\Goku\Builder
- */
 class QueryBuilder
 {
     use Events, Relationships;

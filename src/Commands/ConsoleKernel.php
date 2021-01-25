@@ -2,13 +2,6 @@
 
 namespace Devlob\Commands;
 
-/**
- * Class ConsoleKernel
- *
- * Hide the underline implementation of Console Kernel.
- *
- * @package Devlob\Commands
- */
 abstract class ConsoleKernel
 {
     /**

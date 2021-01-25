@@ -7,13 +7,6 @@ use Exception;
 use ReflectionClass;
 use ReflectionException;
 
-/**
- * Class Model
- *
- * Goku model.
- *
- * @package Devlob\Database\Goku
- */
 class Model
 {
     use Relationships;

@@ -9,13 +9,6 @@ use Devlob\Validation\Rules\Required;
 use Exception;
 use FilesystemIterator;
 
-/**
- * Class Validator
- *
- * Validate request.
- *
- * @package Devlob\Validation
- */
 class Validator
 {
     /**

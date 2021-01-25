@@ -2,13 +2,6 @@
 
 namespace Devlob\Http\Resources;
 
-/**
- * Class ResourceCollection
- *
- * Represent a collection.
- *
- * @package Devlob\Http\Resources
- */
 class ResourceCollection
 {
     /**

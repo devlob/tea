@@ -4,13 +4,6 @@ namespace Devlob\Database\Migrations\Columns\Drivers;
 
 use Devlob\Database\Migrations\Columns\Columns;
 
-/**
- * Class PostgreSqlColumn
- *
- * PostgreSql columns.
- *
- * @package Devlob\Database\Migrations\Columns\Drivers
- */
 class PostgreSqlColumn implements Columns
 {
     /**
